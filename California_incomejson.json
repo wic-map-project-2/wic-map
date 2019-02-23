@@ -1,0 +1,1394 @@
+[
+  {
+    "year": 2013,
+    "geo_name": "Alameda County, CA",
+    "geo": "05000US06001",
+    "income": 72112
+  },
+  {
+    "year": 2013,
+    "geo_name": "Alpine County",
+    "geo": "05000US06003",
+    "income": 58636
+  },
+  {
+    "year": 2013,
+    "geo_name": "Amador County",
+    "geo": "05000US06005",
+    "income": 53684
+  },
+  {
+    "year": 2013,
+    "geo_name": "Butte County, CA",
+    "geo": "05000US06007",
+    "income": 43752
+  },
+  {
+    "year": 2013,
+    "geo_name": "Calaveras County",
+    "geo": "05000US06009",
+    "income": 55295
+  },
+  {
+    "year": 2013,
+    "geo_name": "Colusa County",
+    "geo": "05000US06011",
+    "income": 52158
+  },
+  {
+    "year": 2013,
+    "geo_name": "Contra Costa County, CA",
+    "geo": "05000US06013",
+    "income": 78756
+  },
+  {
+    "year": 2013,
+    "geo_name": "Del Norte County",
+    "geo": "05000US06015",
+    "income": 37909
+  },
+  {
+    "year": 2013,
+    "geo_name": "El Dorado County, CA",
+    "geo": "05000US06017",
+    "income": 69297
+  },
+  {
+    "year": 2013,
+    "geo_name": "Fresno County, CA",
+    "geo": "05000US06019",
+    "income": 45563
+  },
+  {
+    "year": 2013,
+    "geo_name": "Glenn County",
+    "geo": "05000US06021",
+    "income": 43023
+  },
+  {
+    "year": 2013,
+    "geo_name": "Humboldt County, CA",
+    "geo": "05000US06023",
+    "income": 41426
+  },
+  {
+    "year": 2013,
+    "geo_name": "Imperial County, CA",
+    "geo": "05000US06025",
+    "income": 41807
+  },
+  {
+    "year": 2013,
+    "geo_name": "Inyo County",
+    "geo": "05000US06027",
+    "income": 44796
+  },
+  {
+    "year": 2013,
+    "geo_name": "Kern County, CA",
+    "geo": "05000US06029",
+    "income": 48552
+  },
+  {
+    "year": 2013,
+    "geo_name": "Kings County, CA",
+    "geo": "05000US06031",
+    "income": 48133
+  },
+  {
+    "year": 2013,
+    "geo_name": "Lake County",
+    "geo": "05000US06033",
+    "income": 36548
+  },
+  {
+    "year": 2013,
+    "geo_name": "Lassen County",
+    "geo": "05000US06035",
+    "income": 53107
+  },
+  {
+    "year": 2013,
+    "geo_name": "Los Angeles County, CA",
+    "geo": "05000US06037",
+    "income": 55909
+  },
+  {
+    "year": 2013,
+    "geo_name": "Madera County, CA",
+    "geo": "05000US06039",
+    "income": 45625
+  },
+  {
+    "year": 2013,
+    "geo_name": "Marin County, CA",
+    "geo": "05000US06041",
+    "income": 90839
+  },
+  {
+    "year": 2013,
+    "geo_name": "Mariposa County",
+    "geo": "05000US06043",
+    "income": 49820
+  },
+  {
+    "year": 2013,
+    "geo_name": "Mendocino County",
+    "geo": "05000US06045",
+    "income": 43469
+  },
+  {
+    "year": 2013,
+    "geo_name": "Merced County, CA",
+    "geo": "05000US06047",
+    "income": 42591
+  },
+  {
+    "year": 2013,
+    "geo_name": "Modoc County",
+    "geo": "05000US06049",
+    "income": 36212
+  },
+  {
+    "year": 2013,
+    "geo_name": "Mono County",
+    "geo": "05000US06051",
+    "income": 61757
+  },
+  {
+    "year": 2013,
+    "geo_name": "Monterey County, CA",
+    "geo": "05000US06053",
+    "income": 59168
+  },
+  {
+    "year": 2013,
+    "geo_name": "Napa County, CA",
+    "geo": "05000US06055",
+    "income": 70443
+  },
+  {
+    "year": 2013,
+    "geo_name": "Nevada County, CA",
+    "geo": "05000US06057",
+    "income": 57353
+  },
+  {
+    "year": 2013,
+    "geo_name": "Orange County, CA",
+    "geo": "05000US06059",
+    "income": 75422
+  },
+  {
+    "year": 2013,
+    "geo_name": "Placer County, CA",
+    "geo": "05000US06061",
+    "income": 72725
+  },
+  {
+    "year": 2013,
+    "geo_name": "Plumas County",
+    "geo": "05000US06063",
+    "income": 45794
+  },
+  {
+    "year": 2013,
+    "geo_name": "Riverside County, CA",
+    "geo": "05000US06065",
+    "income": 56529
+  },
+  {
+    "year": 2013,
+    "geo_name": "Sacramento County, CA",
+    "geo": "05000US06067",
+    "income": 55064
+  },
+  {
+    "year": 2013,
+    "geo_name": "San Benito County",
+    "geo": "05000US06069",
+    "income": 66237
+  },
+  {
+    "year": 2013,
+    "geo_name": "San Bernardino County, CA",
+    "geo": "05000US06071",
+    "income": 54090
+  },
+  {
+    "year": 2013,
+    "geo_name": "San Diego County, CA",
+    "geo": "05000US06073",
+    "income": 62962
+  },
+  {
+    "year": 2013,
+    "geo_name": "San Francisco County, CA",
+    "geo": "05000US06075",
+    "income": 75604
+  },
+  {
+    "year": 2013,
+    "geo_name": "San Joaquin County, CA",
+    "geo": "05000US06077",
+    "income": 53380
+  },
+  {
+    "year": 2013,
+    "geo_name": "San Luis Obispo County, CA",
+    "geo": "05000US06079",
+    "income": 58697
+  },
+  {
+    "year": 2013,
+    "geo_name": "San Mateo County, CA",
+    "geo": "05000US06081",
+    "income": 88202
+  },
+  {
+    "year": 2013,
+    "geo_name": "Santa Barbara County, CA",
+    "geo": "05000US06083",
+    "income": 62779
+  },
+  {
+    "year": 2013,
+    "geo_name": "Santa Clara County, CA",
+    "geo": "05000US06085",
+    "income": 91702
+  },
+  {
+    "year": 2013,
+    "geo_name": "Santa Cruz County, CA",
+    "geo": "05000US06087",
+    "income": 66519
+  },
+  {
+    "year": 2013,
+    "geo_name": "Shasta County, CA",
+    "geo": "05000US06089",
+    "income": 44651
+  },
+  {
+    "year": 2013,
+    "geo_name": "Sierra County",
+    "geo": "05000US06091",
+    "income": 39009
+  },
+  {
+    "year": 2013,
+    "geo_name": "Siskiyou County",
+    "geo": "05000US06093",
+    "income": 37709
+  },
+  {
+    "year": 2013,
+    "geo_name": "Solano County, CA",
+    "geo": "05000US06095",
+    "income": 67177
+  },
+  {
+    "year": 2013,
+    "geo_name": "Sonoma County, CA",
+    "geo": "05000US06097",
+    "income": 63356
+  },
+  {
+    "year": 2013,
+    "geo_name": "Stanislaus County, CA",
+    "geo": "05000US06099",
+    "income": 49297
+  },
+  {
+    "year": 2013,
+    "geo_name": "Sutter County",
+    "geo": "05000US06101",
+    "income": 50408
+  },
+  {
+    "year": 2013,
+    "geo_name": "Tehama County",
+    "geo": "05000US06103",
+    "income": 41924
+  },
+  {
+    "year": 2013,
+    "geo_name": "Trinity County",
+    "geo": "05000US06105",
+    "income": 36890
+  },
+  {
+    "year": 2013,
+    "geo_name": "Tulare County, CA",
+    "geo": "05000US06107",
+    "income": 42708
+  },
+  {
+    "year": 2013,
+    "geo_name": "Tuolumne County",
+    "geo": "05000US06109",
+    "income": 48426
+  },
+  {
+    "year": 2013,
+    "geo_name": "Ventura County, CA",
+    "geo": "05000US06111",
+    "income": 76544
+  },
+  {
+    "year": 2013,
+    "geo_name": "Yolo County, CA",
+    "geo": "05000US06113",
+    "income": 55918
+  },
+  {
+    "year": 2013,
+    "geo_name": "Yuba County",
+    "geo": "05000US06115",
+    "income": 44902
+  },
+  {
+    "year": 2014,
+    "geo_name": "Alameda County, CA",
+    "geo": "05000US06001",
+    "income": 73775
+  },
+  {
+    "year": 2014,
+    "geo_name": "Alpine County",
+    "geo": "05000US06003",
+    "income": 61343
+  },
+  {
+    "year": 2014,
+    "geo_name": "Amador County",
+    "geo": "05000US06005",
+    "income": 52964
+  },
+  {
+    "year": 2014,
+    "geo_name": "Butte County, CA",
+    "geo": "05000US06007",
+    "income": 43165
+  },
+  {
+    "year": 2014,
+    "geo_name": "Calaveras County",
+    "geo": "05000US06009",
+    "income": 54936
+  },
+  {
+    "year": 2014,
+    "geo_name": "Colusa County",
+    "geo": "05000US06011",
+    "income": 50503
+  },
+  {
+    "year": 2014,
+    "geo_name": "Contra Costa County, CA",
+    "geo": "05000US06013",
+    "income": 79799
+  },
+  {
+    "year": 2014,
+    "geo_name": "Del Norte County",
+    "geo": "05000US06015",
+    "income": 39302
+  },
+  {
+    "year": 2014,
+    "geo_name": "El Dorado County, CA",
+    "geo": "05000US06017",
+    "income": 68507
+  },
+  {
+    "year": 2014,
+    "geo_name": "Fresno County, CA",
+    "geo": "05000US06019",
+    "income": 45201
+  },
+  {
+    "year": 2014,
+    "geo_name": "Glenn County",
+    "geo": "05000US06021",
+    "income": 40106
+  },
+  {
+    "year": 2014,
+    "geo_name": "Humboldt County, CA",
+    "geo": "05000US06023",
+    "income": 42153
+  },
+  {
+    "year": 2014,
+    "geo_name": "Imperial County, CA",
+    "geo": "05000US06025",
+    "income": 41772
+  },
+  {
+    "year": 2014,
+    "geo_name": "Inyo County",
+    "geo": "05000US06027",
+    "income": 45625
+  },
+  {
+    "year": 2014,
+    "geo_name": "Kern County, CA",
+    "geo": "05000US06029",
+    "income": 48574
+  },
+  {
+    "year": 2014,
+    "geo_name": "Kings County, CA",
+    "geo": "05000US06031",
+    "income": 47341
+  },
+  {
+    "year": 2014,
+    "geo_name": "Lake County",
+    "geo": "05000US06033",
+    "income": 35997
+  },
+  {
+    "year": 2014,
+    "geo_name": "Lassen County",
+    "geo": "05000US06035",
+    "income": 53351
+  },
+  {
+    "year": 2014,
+    "geo_name": "Los Angeles County, CA",
+    "geo": "05000US06037",
+    "income": 55870
+  },
+  {
+    "year": 2014,
+    "geo_name": "Madera County, CA",
+    "geo": "05000US06039",
+    "income": 45490
+  },
+  {
+    "year": 2014,
+    "geo_name": "Marin County, CA",
+    "geo": "05000US06041",
+    "income": 91529
+  },
+  {
+    "year": 2014,
+    "geo_name": "Mariposa County",
+    "geo": "05000US06043",
+    "income": 50560
+  },
+  {
+    "year": 2014,
+    "geo_name": "Mendocino County",
+    "geo": "05000US06045",
+    "income": 43290
+  },
+  {
+    "year": 2014,
+    "geo_name": "Merced County, CA",
+    "geo": "05000US06047",
+    "income": 43066
+  },
+  {
+    "year": 2014,
+    "geo_name": "Modoc County",
+    "geo": "05000US06049",
+    "income": 38560
+  },
+  {
+    "year": 2014,
+    "geo_name": "Mono County",
+    "geo": "05000US06051",
+    "income": 61814
+  },
+  {
+    "year": 2014,
+    "geo_name": "Monterey County, CA",
+    "geo": "05000US06053",
+    "income": 58582
+  },
+  {
+    "year": 2014,
+    "geo_name": "Napa County, CA",
+    "geo": "05000US06055",
+    "income": 70925
+  },
+  {
+    "year": 2014,
+    "geo_name": "Nevada County, CA",
+    "geo": "05000US06057",
+    "income": 56949
+  },
+  {
+    "year": 2014,
+    "geo_name": "Orange County, CA",
+    "geo": "05000US06059",
+    "income": 75998
+  },
+  {
+    "year": 2014,
+    "geo_name": "Placer County, CA",
+    "geo": "05000US06061",
+    "income": 73747
+  },
+  {
+    "year": 2014,
+    "geo_name": "Plumas County",
+    "geo": "05000US06063",
+    "income": 48032
+  },
+  {
+    "year": 2014,
+    "geo_name": "Riverside County, CA",
+    "geo": "05000US06065",
+    "income": 56592
+  },
+  {
+    "year": 2014,
+    "geo_name": "Sacramento County, CA",
+    "geo": "05000US06067",
+    "income": 55615
+  },
+  {
+    "year": 2014,
+    "geo_name": "San Benito County",
+    "geo": "05000US06069",
+    "income": 67874
+  },
+  {
+    "year": 2014,
+    "geo_name": "San Bernardino County, CA",
+    "geo": "05000US06071",
+    "income": 54100
+  },
+  {
+    "year": 2014,
+    "geo_name": "San Diego County, CA",
+    "geo": "05000US06073",
+    "income": 63996
+  },
+  {
+    "year": 2014,
+    "geo_name": "San Francisco County, CA",
+    "geo": "05000US06075",
+    "income": 78378
+  },
+  {
+    "year": 2014,
+    "geo_name": "San Joaquin County, CA",
+    "geo": "05000US06077",
+    "income": 53253
+  },
+  {
+    "year": 2014,
+    "geo_name": "San Luis Obispo County, CA",
+    "geo": "05000US06079",
+    "income": 59454
+  },
+  {
+    "year": 2014,
+    "geo_name": "San Mateo County, CA",
+    "geo": "05000US06081",
+    "income": 91421
+  },
+  {
+    "year": 2014,
+    "geo_name": "Santa Barbara County, CA",
+    "geo": "05000US06083",
+    "income": 63409
+  },
+  {
+    "year": 2014,
+    "geo_name": "Santa Clara County, CA",
+    "geo": "05000US06085",
+    "income": 93854
+  },
+  {
+    "year": 2014,
+    "geo_name": "Santa Cruz County, CA",
+    "geo": "05000US06087",
+    "income": 66923
+  },
+  {
+    "year": 2014,
+    "geo_name": "Shasta County, CA",
+    "geo": "05000US06089",
+    "income": 44556
+  },
+  {
+    "year": 2014,
+    "geo_name": "Sierra County",
+    "geo": "05000US06091",
+    "income": 43107
+  },
+  {
+    "year": 2014,
+    "geo_name": "Siskiyou County",
+    "geo": "05000US06093",
+    "income": 37495
+  },
+  {
+    "year": 2014,
+    "geo_name": "Solano County, CA",
+    "geo": "05000US06095",
+    "income": 67341
+  },
+  {
+    "year": 2014,
+    "geo_name": "Sonoma County, CA",
+    "geo": "05000US06097",
+    "income": 63799
+  },
+  {
+    "year": 2014,
+    "geo_name": "Stanislaus County, CA",
+    "geo": "05000US06099",
+    "income": 49573
+  },
+  {
+    "year": 2014,
+    "geo_name": "Sutter County",
+    "geo": "05000US06101",
+    "income": 51527
+  },
+  {
+    "year": 2014,
+    "geo_name": "Tehama County",
+    "geo": "05000US06103",
+    "income": 42369
+  },
+  {
+    "year": 2014,
+    "geo_name": "Trinity County",
+    "geo": "05000US06105",
+    "income": 36862
+  },
+  {
+    "year": 2014,
+    "geo_name": "Tulare County, CA",
+    "geo": "05000US06107",
+    "income": 42863
+  },
+  {
+    "year": 2014,
+    "geo_name": "Tuolumne County",
+    "geo": "05000US06109",
+    "income": 48493
+  },
+  {
+    "year": 2014,
+    "geo_name": "Ventura County, CA",
+    "geo": "05000US06111",
+    "income": 77335
+  },
+  {
+    "year": 2014,
+    "geo_name": "Yolo County, CA",
+    "geo": "05000US06113",
+    "income": 55508
+  },
+  {
+    "year": 2014,
+    "geo_name": "Yuba County",
+    "geo": "05000US06115",
+    "income": 45470
+  },
+  {
+    "year": 2015,
+    "geo_name": "Alameda County, CA",
+    "geo": "05000US06001",
+    "income": 75619
+  },
+  {
+    "year": 2015,
+    "geo_name": "Alpine County",
+    "geo": "05000US06003",
+    "income": 52917
+  },
+  {
+    "year": 2015,
+    "geo_name": "Amador County",
+    "geo": "05000US06005",
+    "income": 54171
+  },
+  {
+    "year": 2015,
+    "geo_name": "Butte County, CA",
+    "geo": "05000US06007",
+    "income": 43444
+  },
+  {
+    "year": 2015,
+    "geo_name": "Calaveras County",
+    "geo": "05000US06009",
+    "income": 53233
+  },
+  {
+    "year": 2015,
+    "geo_name": "Colusa County",
+    "geo": "05000US06011",
+    "income": 52168
+  },
+  {
+    "year": 2015,
+    "geo_name": "Contra Costa County, CA",
+    "geo": "05000US06013",
+    "income": 80185
+  },
+  {
+    "year": 2015,
+    "geo_name": "Del Norte County",
+    "geo": "05000US06015",
+    "income": 40847
+  },
+  {
+    "year": 2015,
+    "geo_name": "El Dorado County, CA",
+    "geo": "05000US06017",
+    "income": 69584
+  },
+  {
+    "year": 2015,
+    "geo_name": "Fresno County, CA",
+    "geo": "05000US06019",
+    "income": 45233
+  },
+  {
+    "year": 2015,
+    "geo_name": "Glenn County",
+    "geo": "05000US06021",
+    "income": 39349
+  },
+  {
+    "year": 2015,
+    "geo_name": "Humboldt County, CA",
+    "geo": "05000US06023",
+    "income": 42197
+  },
+  {
+    "year": 2015,
+    "geo_name": "Imperial County, CA",
+    "geo": "05000US06025",
+    "income": 41079
+  },
+  {
+    "year": 2015,
+    "geo_name": "Inyo County",
+    "geo": "05000US06027",
+    "income": 45955
+  },
+  {
+    "year": 2015,
+    "geo_name": "Kern County, CA",
+    "geo": "05000US06029",
+    "income": 49026
+  },
+  {
+    "year": 2015,
+    "geo_name": "Kings County, CA",
+    "geo": "05000US06031",
+    "income": 46481
+  },
+  {
+    "year": 2015,
+    "geo_name": "Lake County",
+    "geo": "05000US06033",
+    "income": 35578
+  },
+  {
+    "year": 2015,
+    "geo_name": "Lassen County",
+    "geo": "05000US06035",
+    "income": 51555
+  },
+  {
+    "year": 2015,
+    "geo_name": "Los Angeles County, CA",
+    "geo": "05000US06037",
+    "income": 56196
+  },
+  {
+    "year": 2015,
+    "geo_name": "Madera County, CA",
+    "geo": "05000US06039",
+    "income": 45073
+  },
+  {
+    "year": 2015,
+    "geo_name": "Marin County, CA",
+    "geo": "05000US06041",
+    "income": 93257
+  },
+  {
+    "year": 2015,
+    "geo_name": "Mariposa County",
+    "geo": "05000US06043",
+    "income": 47681
+  },
+  {
+    "year": 2015,
+    "geo_name": "Mendocino County",
+    "geo": "05000US06045",
+    "income": 42980
+  },
+  {
+    "year": 2015,
+    "geo_name": "Merced County, CA",
+    "geo": "05000US06047",
+    "income": 42462
+  },
+  {
+    "year": 2015,
+    "geo_name": "Modoc County",
+    "geo": "05000US06049",
+    "income": 37860
+  },
+  {
+    "year": 2015,
+    "geo_name": "Mono County",
+    "geo": "05000US06051",
+    "income": 56944
+  },
+  {
+    "year": 2015,
+    "geo_name": "Monterey County, CA",
+    "geo": "05000US06053",
+    "income": 58783
+  },
+  {
+    "year": 2015,
+    "geo_name": "Napa County, CA",
+    "geo": "05000US06055",
+    "income": 71379
+  },
+  {
+    "year": 2015,
+    "geo_name": "Nevada County, CA",
+    "geo": "05000US06057",
+    "income": 56521
+  },
+  {
+    "year": 2015,
+    "geo_name": "Orange County, CA",
+    "geo": "05000US06059",
+    "income": 76509
+  },
+  {
+    "year": 2015,
+    "geo_name": "Placer County, CA",
+    "geo": "05000US06061",
+    "income": 73948
+  },
+  {
+    "year": 2015,
+    "geo_name": "Plumas County",
+    "geo": "05000US06063",
+    "income": 47333
+  },
+  {
+    "year": 2015,
+    "geo_name": "Riverside County, CA",
+    "geo": "05000US06065",
+    "income": 56603
+  },
+  {
+    "year": 2015,
+    "geo_name": "Sacramento County, CA",
+    "geo": "05000US06067",
+    "income": 55987
+  },
+  {
+    "year": 2015,
+    "geo_name": "San Benito County",
+    "geo": "05000US06069",
+    "income": 71077
+  },
+  {
+    "year": 2015,
+    "geo_name": "San Bernardino County, CA",
+    "geo": "05000US06071",
+    "income": 53433
+  },
+  {
+    "year": 2015,
+    "geo_name": "San Diego County, CA",
+    "geo": "05000US06073",
+    "income": 64309
+  },
+  {
+    "year": 2015,
+    "geo_name": "San Francisco County, CA",
+    "geo": "05000US06075",
+    "income": 81294
+  },
+  {
+    "year": 2015,
+    "geo_name": "San Joaquin County, CA",
+    "geo": "05000US06077",
+    "income": 53274
+  },
+  {
+    "year": 2015,
+    "geo_name": "San Luis Obispo County, CA",
+    "geo": "05000US06079",
+    "income": 60691
+  },
+  {
+    "year": 2015,
+    "geo_name": "San Mateo County, CA",
+    "geo": "05000US06081",
+    "income": 93623
+  },
+  {
+    "year": 2015,
+    "geo_name": "Santa Barbara County, CA",
+    "geo": "05000US06083",
+    "income": 63985
+  },
+  {
+    "year": 2015,
+    "geo_name": "Santa Clara County, CA",
+    "geo": "05000US06085",
+    "income": 96310
+  },
+  {
+    "year": 2015,
+    "geo_name": "Santa Cruz County, CA",
+    "geo": "05000US06087",
+    "income": 67256
+  },
+  {
+    "year": 2015,
+    "geo_name": "Shasta County, CA",
+    "geo": "05000US06089",
+    "income": 44620
+  },
+  {
+    "year": 2015,
+    "geo_name": "Sierra County",
+    "geo": "05000US06091",
+    "income": 42833
+  },
+  {
+    "year": 2015,
+    "geo_name": "Siskiyou County",
+    "geo": "05000US06093",
+    "income": 37170
+  },
+  {
+    "year": 2015,
+    "geo_name": "Solano County, CA",
+    "geo": "05000US06095",
+    "income": 66828
+  },
+  {
+    "year": 2015,
+    "geo_name": "Sonoma County, CA",
+    "geo": "05000US06097",
+    "income": 64240
+  },
+  {
+    "year": 2015,
+    "geo_name": "Stanislaus County, CA",
+    "geo": "05000US06099",
+    "income": 50125
+  },
+  {
+    "year": 2015,
+    "geo_name": "Sutter County",
+    "geo": "05000US06101",
+    "income": 52017
+  },
+  {
+    "year": 2015,
+    "geo_name": "Tehama County",
+    "geo": "05000US06103",
+    "income": 41001
+  },
+  {
+    "year": 2015,
+    "geo_name": "Trinity County",
+    "geo": "05000US06105",
+    "income": 34974
+  },
+  {
+    "year": 2015,
+    "geo_name": "Tulare County, CA",
+    "geo": "05000US06107",
+    "income": 42031
+  },
+  {
+    "year": 2015,
+    "geo_name": "Tuolumne County",
+    "geo": "05000US06109",
+    "income": 50306
+  },
+  {
+    "year": 2015,
+    "geo_name": "Ventura County, CA",
+    "geo": "05000US06111",
+    "income": 77348
+  },
+  {
+    "year": 2015,
+    "geo_name": "Yolo County, CA",
+    "geo": "05000US06113",
+    "income": 54989
+  },
+  {
+    "year": 2015,
+    "geo_name": "Yuba County",
+    "geo": "05000US06115",
+    "income": 46892
+  },
+  {
+    "year": 2016,
+    "geo_name": "Alameda County, CA",
+    "geo": "05000US06001",
+    "income": 79831
+  },
+  {
+    "year": 2016,
+    "geo_name": "Alpine County",
+    "geo": "05000US06003",
+    "income": 62375
+  },
+  {
+    "year": 2016,
+    "geo_name": "Amador County",
+    "geo": "05000US06005",
+    "income": 57032
+  },
+  {
+    "year": 2016,
+    "geo_name": "Butte County, CA",
+    "geo": "05000US06007",
+    "income": 44366
+  },
+  {
+    "year": 2016,
+    "geo_name": "Calaveras County",
+    "geo": "05000US06009",
+    "income": 53502
+  },
+  {
+    "year": 2016,
+    "geo_name": "Colusa County",
+    "geo": "05000US06011",
+    "income": 54946
+  },
+  {
+    "year": 2016,
+    "geo_name": "Contra Costa County, CA",
+    "geo": "05000US06013",
+    "income": 82881
+  },
+  {
+    "year": 2016,
+    "geo_name": "Del Norte County",
+    "geo": "05000US06015",
+    "income": 42363
+  },
+  {
+    "year": 2016,
+    "geo_name": "El Dorado County, CA",
+    "geo": "05000US06017",
+    "income": 72586
+  },
+  {
+    "year": 2016,
+    "geo_name": "Fresno County, CA",
+    "geo": "05000US06019",
+    "income": 45963
+  },
+  {
+    "year": 2016,
+    "geo_name": "Glenn County",
+    "geo": "05000US06021",
+    "income": 41699
+  },
+  {
+    "year": 2016,
+    "geo_name": "Humboldt County, CA",
+    "geo": "05000US06023",
+    "income": 42685
+  },
+  {
+    "year": 2016,
+    "geo_name": "Imperial County, CA",
+    "geo": "05000US06025",
+    "income": 42560
+  },
+  {
+    "year": 2016,
+    "geo_name": "Inyo County",
+    "geo": "05000US06027",
+    "income": 47278
+  },
+  {
+    "year": 2016,
+    "geo_name": "Kern County, CA",
+    "geo": "05000US06029",
+    "income": 49788
+  },
+  {
+    "year": 2016,
+    "geo_name": "Kings County, CA",
+    "geo": "05000US06031",
+    "income": 47241
+  },
+  {
+    "year": 2016,
+    "geo_name": "Lake County",
+    "geo": "05000US06033",
+    "income": 36132
+  },
+  {
+    "year": 2016,
+    "geo_name": "Lassen County",
+    "geo": "05000US06035",
+    "income": 51457
+  },
+  {
+    "year": 2016,
+    "geo_name": "Los Angeles County, CA",
+    "geo": "05000US06037",
+    "income": 57952
+  },
+  {
+    "year": 2016,
+    "geo_name": "Madera County, CA",
+    "geo": "05000US06039",
+    "income": 45742
+  },
+  {
+    "year": 2016,
+    "geo_name": "Marin County, CA",
+    "geo": "05000US06041",
+    "income": 100310
+  },
+  {
+    "year": 2016,
+    "geo_name": "Mariposa County",
+    "geo": "05000US06043",
+    "income": 49265
+  },
+  {
+    "year": 2016,
+    "geo_name": "Mendocino County",
+    "geo": "05000US06045",
+    "income": 43510
+  },
+  {
+    "year": 2016,
+    "geo_name": "Merced County, CA",
+    "geo": "05000US06047",
+    "income": 44397
+  },
+  {
+    "year": 2016,
+    "geo_name": "Modoc County",
+    "geo": "05000US06049",
+    "income": 41194
+  },
+  {
+    "year": 2016,
+    "geo_name": "Mono County",
+    "geo": "05000US06051",
+    "income": 58937
+  },
+  {
+    "year": 2016,
+    "geo_name": "Monterey County, CA",
+    "geo": "05000US06053",
+    "income": 60889
+  },
+  {
+    "year": 2016,
+    "geo_name": "Napa County, CA",
+    "geo": "05000US06055",
+    "income": 74609
+  },
+  {
+    "year": 2016,
+    "geo_name": "Nevada County, CA",
+    "geo": "05000US06057",
+    "income": 57429
+  },
+  {
+    "year": 2016,
+    "geo_name": "Orange County, CA",
+    "geo": "05000US06059",
+    "income": 78145
+  },
+  {
+    "year": 2016,
+    "geo_name": "Placer County, CA",
+    "geo": "05000US06061",
+    "income": 76926
+  },
+  {
+    "year": 2016,
+    "geo_name": "Plumas County",
+    "geo": "05000US06063",
+    "income": 50125
+  },
+  {
+    "year": 2016,
+    "geo_name": "Riverside County, CA",
+    "geo": "05000US06065",
+    "income": 57972
+  },
+  {
+    "year": 2016,
+    "geo_name": "Sacramento County, CA",
+    "geo": "05000US06067",
+    "income": 57509
+  },
+  {
+    "year": 2016,
+    "geo_name": "San Benito County",
+    "geo": "05000US06069",
+    "income": 73814
+  },
+  {
+    "year": 2016,
+    "geo_name": "San Bernardino County, CA",
+    "geo": "05000US06071",
+    "income": 54469
+  },
+  {
+    "year": 2016,
+    "geo_name": "San Diego County, CA",
+    "geo": "05000US06073",
+    "income": 66529
+  },
+  {
+    "year": 2016,
+    "geo_name": "San Francisco County, CA",
+    "geo": "05000US06075",
+    "income": 87701
+  },
+  {
+    "year": 2016,
+    "geo_name": "San Joaquin County, CA",
+    "geo": "05000US06077",
+    "income": 55045
+  },
+  {
+    "year": 2016,
+    "geo_name": "San Luis Obispo County, CA",
+    "geo": "05000US06079",
+    "income": 64014
+  },
+  {
+    "year": 2016,
+    "geo_name": "San Mateo County, CA",
+    "geo": "05000US06081",
+    "income": 98546
+  },
+  {
+    "year": 2016,
+    "geo_name": "Santa Barbara County, CA",
+    "geo": "05000US06083",
+    "income": 65161
+  },
+  {
+    "year": 2016,
+    "geo_name": "Santa Clara County, CA",
+    "geo": "05000US06085",
+    "income": 101173
+  },
+  {
+    "year": 2016,
+    "geo_name": "Santa Cruz County, CA",
+    "geo": "05000US06087",
+    "income": 70088
+  },
+  {
+    "year": 2016,
+    "geo_name": "Shasta County, CA",
+    "geo": "05000US06089",
+    "income": 45582
+  },
+  {
+    "year": 2016,
+    "geo_name": "Sierra County",
+    "geo": "05000US06091",
+    "income": 43984
+  },
+  {
+    "year": 2016,
+    "geo_name": "Siskiyou County",
+    "geo": "05000US06093",
+    "income": 38524
+  },
+  {
+    "year": 2016,
+    "geo_name": "Solano County, CA",
+    "geo": "05000US06095",
+    "income": 69227
+  },
+  {
+    "year": 2016,
+    "geo_name": "Sonoma County, CA",
+    "geo": "05000US06097",
+    "income": 66833
+  },
+  {
+    "year": 2016,
+    "geo_name": "Stanislaus County, CA",
+    "geo": "05000US06099",
+    "income": 51591
+  },
+  {
+    "year": 2016,
+    "geo_name": "Sutter County",
+    "geo": "05000US06101",
+    "income": 52943
+  },
+  {
+    "year": 2016,
+    "geo_name": "Tehama County",
+    "geo": "05000US06103",
+    "income": 40687
+  },
+  {
+    "year": 2016,
+    "geo_name": "Trinity County",
+    "geo": "05000US06105",
+    "income": 35270
+  },
+  {
+    "year": 2016,
+    "geo_name": "Tulare County, CA",
+    "geo": "05000US06107",
+    "income": 42789
+  },
+  {
+    "year": 2016,
+    "geo_name": "Tuolumne County",
+    "geo": "05000US06109",
+    "income": 50731
+  },
+  {
+    "year": 2016,
+    "geo_name": "Ventura County, CA",
+    "geo": "05000US06111",
+    "income": 78593
+  },
+  {
+    "year": 2016,
+    "geo_name": "Yolo County, CA",
+    "geo": "05000US06113",
+    "income": 57663
+  },
+  {
+    "year": 2016,
+    "geo_name": "Yuba County",
+    "geo": "05000US06115",
+    "income": 48739
+  }
+]
